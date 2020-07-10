@@ -15,7 +15,7 @@
 <div class="container" >
 	<div class="my-5">
 	
-	<img src="images/kei.jpg" style="width:230px; heigh:230px;" class="img-thumbnail rounded mx-auto d-block" >
+	<img src="images/Kei.jpg" style="width:230px; heigh:230px;" class="img-thumbnail rounded mx-auto d-block" >
 
 	</div>
   <p id="name" class="h2 align-middle my-5">My Resume</p>
