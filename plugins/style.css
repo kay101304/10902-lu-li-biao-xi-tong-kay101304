@@ -1,0 +1,65 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	background:  #330303	url("../images/wrapper-bg.jpg" ) repeat ;
+	background-size: auto,auto;
+	font-family: Arial, "Microsoft JhengHei";
+	height: 100%;
+	width: 100%;
+}
+
+#name {
+	display: block;
+	width: 100%;
+	height: 50px;
+	margin: 0 auto 0 auto;
+	padding: 0px;
+	background: #6C0000 url(../images/menu-bg.png) repeat-x left top;
+	color: #FFFFFF;
+}
+
+
+.post {
+	margin-bottom: 20px;
+	padding: 40px 40px;
+	background: #FFFFFF url(../images/page-gradient-bg.png) repeat-x left bottom;
+	box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 1);
+	outline: 2px dashed #7D7D7D;
+	outline-offset: -10px;
+	
+}
+
+.post .title {
+	padding-bottom: 20px;
+	letter-spacing: -1px;
+	
+}
+
+.post .title a {
+	border: none;
+	color: #1D110A;
+}
+
+.post .entry {
+	text-align: justify;
+	margin-bottom: 25px;
+	padding: 10px 0px 0px 0px;
+	
+}
+
+.a {
+	text-decoration:none;
+	color: aliceblue;
+	/* color:brown */
+}
+
+img{
+	width: 150px;
+	height: 150px;
+	border: 1px solid rgb(127, 134, 141)
+	
+}
+.card>img{
+	object-fit: contain;
+}
